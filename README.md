@@ -12,7 +12,12 @@
 
 [![GitHub charlygarcia120](https://img.shields.io/github/followers/charlygarcia120?label=follow&style=social)](https://github.com/charlygarcia120)
 
+[![twitter charlygarcia120]](https://twitter.com/charlygarcia120)
+
+
+
 <p><a href="https://consultoresgit.wordpress.com/">🌐 Check out my website</a></p>
+
 
 <!--
 
