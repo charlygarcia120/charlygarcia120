@@ -1,4 +1,5 @@
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/charlygarcia120) represent my journey :running_man: - This is Carlos Garcia, I have over 30 years’ experience of Script Developer. I am a electronic engineer by profession and entrepreneur by passion. Works with some friends and we worked in Android native, Data Science and Web development(perl,php ) for database we use Firebase, Mysql, flat files.
+**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/charlygarcia120) represent my journey :running_man: - I am Carlos Garcia, I have over 30 years’ experience as Script Developer , teacher and analyst of all kinds of systems of software., hardware, telco. I am a electronic engineer by profession and entrepreneur by passion. Works with some friends in Android native, Data Science and Web development (perl,php, phyton) for database we use Firebase, Mysql, flat files, postgress  and Oracle.
+I have a student soul , and try to learn every day in any opportunity.
 
 **Languages and Tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -10,7 +11,14 @@
 
 
 
-Follow me in twitter: https://twitter.com/charlygarcia120
+Contact me:
+Personal blog : http://bit.ly/2bHZJAK
+facebook : http://www.facebook.com/charlygarcia120
+Linkedin : http://www.linkedin.com/in/charlygarcia120
+Twitter :  https://www.twitter.com/charlygarcia120
+GitHub: https://github.com/charlygarcia120
+
+
 
 ----------------------------------------------------------
 
