@@ -10,11 +10,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=charlygarcia120&show_icons=true)
 
-[![Twitter: charlygarcia120](https://img.shields.io/twitter/follow/charlygarcia120?style=social)](https://twitter.com/charlygarcia120)
-
-[![Linkedin: charlygarcia120](https://img.shields.io/badge/-charlygarcia120-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/charlygarcia120/)](https://www.linkedin.com/in/charlygarcia120/)
-
 [![GitHub charlygarcia120](https://img.shields.io/github/followers/charlygarcia120?label=follow&style=social)](https://github.com/charlygarcia120)
+
 <p><a href="https://consultoresgit.wordpress.com/">🌐 Check out my website</a></p>
 
 <!--
