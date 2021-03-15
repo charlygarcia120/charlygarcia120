@@ -13,9 +13,13 @@ I have a student soul , and try to learn every day in any opportunity.
 
 Contact me:
 Personal blog : http://bit.ly/2bHZJAK
+
 facebook : http://www.facebook.com/charlygarcia120
+
 Linkedin : http://www.linkedin.com/in/charlygarcia120
+
 Twitter :  https://www.twitter.com/charlygarcia120
+
 GitHub: https://github.com/charlygarcia120
 
 
