@@ -12,11 +12,10 @@
 
 Follow me in twitter: https://twitter.com/charlygarcia120
 
+----------------------------------------------------------
 
-
-<p><a href="https://consultoresgit.wordpress.com/">🌐 Check out my website</a></p>
-
-
+"The three great virtues of a programmer; Laziness, Impatience and Hubris" 
+Larry Wall
 <!--
 
 ### Hi there 👋
