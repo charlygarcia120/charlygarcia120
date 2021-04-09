@@ -1,4 +1,7 @@
-**Happy to see you here!** :star_struck: <br> The green dots on my [**GitHub** profile](https://github.com/charlygarcia120) represent my journey :running_man: - I am Carlos Garcia, I have over 30 years’ experience as Script Developer , teacher and analyst of all kinds of systems of software., hardware, telco. I am a electronic engineer by profession and entrepreneur by passion.I Work with some old tools for , data Science and Web development (awk,perl, php, phyton) for database i love to use firebase, Mysql, flat files, postgress  and Oracle.
+I am Carlos Garcia, I have over 30 years of experience as Script Developer , teacher and analyst of all kinds of systems of software., hardware, telco. 
+my profesion is electronic engineer by profession and entrepreneur by passion.
+love to workwith some old tools for  data science and Web development (c,c++,awk, perl, php, phyton).
+For database i love to use firebase, Mysql, flat files, postgress  and Oracle.
 I have a student soul , and try to learn every day in any opportunity.
 
 **Languages and Tools:**
