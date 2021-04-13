@@ -1,4 +1,4 @@
-I am Carlos Garcia, I have over 30 years of experience as Script Developer , teacher and analyst of all kinds of systems of software., hardware, telco. 
+I am Carlos Garcia, a programmer with many years of experience as Script Developer , teacher and analyst of all kinds of systems of software., hardware, telco. 
 my profesion is electronic engineer by profession and entrepreneur by passion.
 love to workwith some old tools for  data science and Web development (c,c++,awk, perl, php, phyton).
 For database i love to use firebase, Mysql, flat files, postgress  and Oracle.
