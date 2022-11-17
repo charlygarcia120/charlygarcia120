@@ -2,8 +2,8 @@ Carlos Garcia,  Script Developer , systems analyst, hardware, telco.
 Electronic engineer by profession and entrepreneur by passion.
 love to work with some old tools for  data science and Web development (c,c++,awk, perl, php, phyton).
 For database i love to use firebase, Mysql, flat files, postgress  and Oracle.
-I love to study ERPs, CRMs, SCMs, RPA  and all kind of software for optimizatin resources in enterprises.
-I have a student soul , and try to learn every day in any opportunity.
+I love to study ERPs, CRMs, SCMs, RPA  and all kind of software for optimization resources and process in enterprises.
+I have a student soul , and I am trying to learn every day in any opportunity.
 
 **Languages and Tools:**
 
