@@ -4,7 +4,7 @@ love to work with some old tools for  data science and Web development (c,c++,aw
 For database i love to use firebase, Mysql, flat files, postgress  and Oracle.
 I love to study ERPs, CRMs, SCMs, RPA  and all kind of software for optimization resources and process in enterprises.
 I have a student soul , and I am learning every day in any opportunity.
-
+PROPELA EMI UNAL MZLS.
 **Languages and Tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
