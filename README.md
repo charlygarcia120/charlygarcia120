@@ -1,4 +1,4 @@
-Carlos Garcia,  Script Developer , systems analyst, hardware, telco. 
+Carlos Garcia,  Script Developer , systems analyst, systems architect,  hardware, telco. 
 Electronic engineer by profession and entrepreneur by passion, playing with boards and microcontrollers.
 love to work with some old tools for  data science and Web development (c,c++,awk, perl, php, phyton).
 For database i love to use firebase, Mysql, flat files, postgress  and Oracle.
